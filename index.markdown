@@ -20,7 +20,7 @@ If you have ever wondered WTF you’re eating when indulging in a pickle, I’m 
 
 
 
-# The Basics Any and Every Self-Respecting Pickle-Lover Should Know
+# The Basics Any and Every Self-Respecting Pickle-Conoisseur Should Know
 
 What do pickles, vinegar, tempeh, chocolate and wine have in common? Yes, they're all delicious—and they're all fermented. And that means they all have major health perks.
 
