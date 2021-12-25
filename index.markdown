@@ -6,7 +6,6 @@ layout: default
 ---
 
 
-<img style="float: left; padding-right:1%" src="img/me.png">
 
 The pickle is the best food on earth. It goes well with just about anything from a hamburger, as a side, in a salad or my go-to afternoon snack. Pickles are also very low in calorie—for the average size pickle, it is only around 8 calories. And some snack-size pickles are 5 calories.
 
