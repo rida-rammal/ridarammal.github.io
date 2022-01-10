@@ -10,8 +10,9 @@ It goes well with just about anything from a hamburger, as a side, in a salad or
 Pickles are also very low in calorie—for the average size pickle, it is only around 8 calories. And some snack-size pickles are 5 calories.
 
 If you have ever wondered **WTF you’re eating when indulging in a pickle**, I’m about to give you the lowdown and **answer all your questions**. 
+
 <!--Inserting images using markdown is very limited and does not allow you to change alignment. Use HTML instead. -->
-![pick]({{site.base_url}}/img/gangsta-pickle-pickle-appreciation-day.gif)
+![pick](img/gangsta-pickle-pickle-appreciation-day.gif)
 
 
 ---
@@ -23,7 +24,7 @@ If you have ever wondered **WTF you’re eating when indulging in a pickle**, I�
 
 What do pickles, vinegar, tempeh, chocolate and wine have in common? Yes, they're all delicious—and they're all fermented. And that means they all have major health perks.
 Ever wonder about the history of a pickle? No? Well here it is. 
-![pick]({{site.base_url}}/img/pick.png)
+![pick](img/pick.png)
 The earliest known examples are cucumbers that are known to have been pickled sometime around 2030 BC in Mesopotamia, when inhabitants from northern India brought cucumber seeds to the Tigris valley. Romans pickled their pickles in vinegar, oil, brine and sometimes even honey. Can you say yum?
 They've also had some famous fans throughout history. Cleopatra, Julius Caesar, and Napoleon Bonaparte have all touted the power of a good pickle.
 
@@ -33,7 +34,7 @@ They've also had some famous fans throughout history. Cleopatra, Julius Caesar, 
 # Six Reasons Why You Can’t Trust People Who Hate Pickles
 <div align="center">
 <figure >
-<img src="{{site.base_url}}/img/luffy_sad.jpg" alt="luffy" width="40%" height="40%"/>
+<img src="img/luffy_sad.jpg" alt="luffy" width="40%" height="40%"/>
 <figcaption>When someone tells me they don't like pickles</figcaption>
 </figure>
 </div>
@@ -41,7 +42,7 @@ They've also had some famous fans throughout history. Cleopatra, Julius Caesar, 
 ## 1. The pickle is the cucumber’s cooler cousin
 
 <div align="center">
-<img src="{{site.base_url}}/img/pickle-dill-with-it.gif" alt="luffy" />
+<img src="img/pickle-dill-with-it.gif" alt="luffy" />
 </div>
 
 ## 2. Pickles can be sour, sweet, fried, sliced, big, small, and more
